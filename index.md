@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <title>AllScholar : EdTech Startup</title>
 <meta charset="UTF-8">
